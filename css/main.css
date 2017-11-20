@@ -1,8 +1,9 @@
 html {
     font-family: 'Roboto', sans-serif;
-    font-size: 16px;
+    font-size:16px;
+    font-size:4vmin;
 }
-@media(min-width:20em){html{font-size: 120%}}
+@media(min-width:40em){html{font-size: 120%}}
 
 body {
     margin: 60px auto;
