@@ -1,8 +1,8 @@
 html {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 24px;
+    font-size: 16px;
 }
-@media(min-width:100em){html{font-size: 50%}}
+@media(min-width:20em){html{font-size: 120%}}
 
 body {
     margin: 60px auto;
@@ -10,7 +10,6 @@ body {
 }
 
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -29,10 +28,8 @@ a:hover {
 }
 h1 {
     font-size: 250%;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 120%;
     line-height: 1.2;
     color: #333;
 }
@@ -43,11 +40,9 @@ footer {
 
 ul.posts {
     margin: 20px auto 40px;
-    line-height: 200%;
-    font-size: 150%;
+    line-height: 120%;
 }
 
 ul.posts li {
-    font-size: 120%;
     list-style: none;
 }
