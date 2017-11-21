@@ -2,40 +2,15 @@
 
 <html>
 	<head>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>{{ page.title }}</title>
-		<!-- link to main stylesheet -->
-		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	{% include head.html %}
 	</head>
 	<body>
-		<nav>
-			<div class="scrollmenu">
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/specs">Specs</a></li>
-        		<li><a href="/jots">Jots</a></li>
-            <li><a href="/casual">Casual</a></li>
-    		</ul>
-			</div>
-		</nav>
+		{% include header.html %}
 		<div class="container">
 
 		{{ content }}
 
 		</div><!-- /.container -->
-		<footer>
-			<div class="scrollmenu">
-    		<ul>
-            <li><a href="https://github.com/geordgez">geordgez [at] github</a></li>
-            <li><a href="https://www.linkedin.com/in/georgezeng">georgezeng [at] linkedin</a></li>
-            <li>geordgez [at] gmail</li>
-            <li><a href="https://www.facebook.com/geordge">facebook</a></li>
-            <li><a href="https://www.strava.com/athletes/18961818">strava</a></li>
-            <li><a href="http://data.typeracer.com/pit/profile?user=geordge">typeracer</a></li>
-				</ul>
-			</div>
-		</footer>
+		{% include footer.html %}
 	</body>
 </html>
