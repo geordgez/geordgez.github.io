@@ -16,6 +16,7 @@ across all browsers.
 2. Inspect Element
 3. Delete the `div` element that's highlighted to remove the overlay
   - The element should be similar to:
+
   ```
   <div-class="show-login no-animation show" id="advocate-modal">
   ```
@@ -23,6 +24,7 @@ across all browsers.
 the CSS and delete the line `overflow: hidden` to remove the scroll lock
   - Navigate to the body level e.g. `html.os-mac > body#...`.
   - Modify the following CSS:
+  
   ```
   body.advocate-modal-visible {
     overflow: hidden;
