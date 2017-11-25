@@ -45,6 +45,11 @@ footer {
     font-size: .8em;
 }
 
+pre {
+    width: auto;
+    overflow: auto;
+}
+
 ul.posts {
     margin: 20px auto 40px;
     line-height: 120%;
