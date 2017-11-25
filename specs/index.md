@@ -21,14 +21,14 @@ Commercial Advanced Analytics.
 #### S.M. Applied Mathematics, Sep 2014 - May 2016
 #### A.B. Applied Mathematics & Economics, Sep 2012 - May 2016
 AM [105, 115, 121, 201, 203, 206]
-
+<br>
 CS [50, 51, 109, 181, 236R, 283]
-
+<br>
 ECON [1011AB, 1126, 1687, 1723, 1760]
-
+<br>
 MATH [23AB, 113]
-
-STAT [139]
+<br>
+STAT [110, 139]
 
 ---
 
