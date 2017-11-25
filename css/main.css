@@ -46,7 +46,8 @@ footer {
 }
 
 pre {
-    padding: 5px; 
+    padding: 5px;
+    padding-bottom: 10px;
     width: auto;
     overflow: auto;
 }
