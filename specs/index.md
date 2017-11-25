@@ -11,7 +11,7 @@ date: 2017-11-19
 <br>
 **Intern, May 2015 - Aug 2015**
 
-I'm currently a member of the Analytics practice of Booz Allen's
+I'm part of the Advanced Analytics group within Booz Allen's
 Commercial practice. I've supported client engagements and proposal efforts
 across the commercial and government sectors in a variety of roles.
 
