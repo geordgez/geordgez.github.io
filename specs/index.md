@@ -5,11 +5,11 @@ date: 2017-11-19
 ---
 ## Current
 ### Booz Allen Hamilton
-**Senior Consultant, Jul 2017 - present**
+**Senior Consultant, 2017 - present**
 <br>
-**Consultant, Jul 2016 - Jun 2017**
+**Consultant, 2016 - 2017**
 <br>
-**Intern, May 2015 - Aug 2015**
+**Intern, 2015**
 
 I'm part of the Advanced Analytics group within Booz Allen's
 Commercial practice. I've supported client engagements and proposal efforts
@@ -19,9 +19,9 @@ across the commercial and government sectors in a variety of roles.
 
 ## Education
 ### Harvard University
-**S.M. Applied Mathematics, Sep 2014 - May 2016**
+**S.M. Applied Mathematics, 2014 - 2016**
 <br>
-**A.B. Applied Mathematics & Economics, Sep 2012 - May 2016**
+**A.B. Applied Mathematics & Economics, 2012 - 2016**
 
 AM [105, 115, 121, 201, 203, 206]
 <br>
@@ -79,23 +79,23 @@ I type at 104wpm. Check out my TypeRacer profile in the bottom navigation bar.
 
 ## Experience
 ### Private Capital Research Institute
-**Research Analyst, 2013-2016**
+**Research Analyst, 2013 - 2016**
 
 I served as an undergraduate research analyst for HBS Prof. Josh Lerner's
 private capital research initiative.
 
 ### Harvard Undergraduate Economics Association
-**President, 2014-2015**
+**President, 2014 - 2015**
 <br>
-**VP of Outreach, 2013-2014**
+**VP of Outreach, 2013 - 2014**
 <br>
-**Outreach Committee, 2012-2013**
+**Outreach Committee, 2012 - 2013**
 
 Having had the opportunity to attend the Harvard Pre-Collegiate Economics
 Challenge (HPEC) as a high school student, I eventually had the privilege of
 supporting, directing, and growing the competition as an undergraduate.
 
 ### Harvard University Dorm Crew
-**Lowell House Wet Work Team, 2012-2013**
+**Lowell House Wet Work Team, 2012 - 2013**
 
 I cleaned bathrooms in student dormitories.
