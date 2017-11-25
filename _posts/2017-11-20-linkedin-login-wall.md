@@ -15,18 +15,16 @@ across all browsers.
 1. Right click the transparent dark area around the login prompt
 2. Inspect Element
 3. Delete the `div` element that's highlighted to remove the overlay
-  - The element should be similar to:
-
-  ```
-  <div class="show-login no-animation show" id="advocate-modal">
-  ```
+    - The element should be similar to:
+      ```
+      <div class="show-login no-animation show" id="advocate-modal">
+      ```
 4. Search for the `overflow` attribute of the `body.advocate-modal-visible` in
 the CSS and delete the line `overflow: hidden` to remove the scroll lock
-  - Navigate to the body level e.g. `html.os-mac > body#...`.
-  - Modify the following CSS:
-
-  ```
-  body.advocate-modal-visible {
-    overflow: hidden;
-  }
-  ```
+    - Navigate to the body level e.g. `html.os-mac > body#...`.
+    - Modify the following CSS:
+      ```
+      body.advocate-modal-visible {
+        overflow: hidden;
+      }
+      ```
