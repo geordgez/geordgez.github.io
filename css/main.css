@@ -3,11 +3,18 @@ html {
     font-size:16px;
     font-size:4vmin;
 }
-@media(min-width:40em){html{font-size: 120%}}
 
 body {
     margin: 40px auto;
     width: 80%;
+}
+@media(min-width:40em) {
+  html {
+    font-size: 120%;
+  }
+  body {
+    max-width: 40em;
+  }
 }
 
 nav ul, footer ul {
