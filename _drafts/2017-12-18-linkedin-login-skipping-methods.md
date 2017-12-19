@@ -23,7 +23,9 @@ If you find any issues or bugs, feel free to submit an issue in
 # Quick fix
 
 ### Draggable button/link
-TODO
+TODO: I'll have a button/link that can be dragged to the browser's bookmarks
+toolbar so that when you're on LinkedIn and hit the soft paywall, you can
+click on the link to remove it automatically.
 
 ### Inspiration
 There's been some discussion regarding soft paywalls/login walls; I learned
