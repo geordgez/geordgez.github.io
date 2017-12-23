@@ -33,8 +33,9 @@ If you find any issues or bugs, feel free to submit an issue in
 [my repo for this project](https://github.com/geordgez/linkedin-login-wall-css).
 
 ### Simple, non-invasive fix: Bookmarklet
+[bookmarklet]: javascript:(function() {document.getElementById('advocate-modal').style.display = "none";document.getElementById('pagekey-public_profile_v3_desktop').style.overflow = "visible";document.getElementsByClassName('js%20guest%20advocate-modal-visible')[0].style.overflow = "visible";})();  "Bookmarklet"
 
-<a href="javascript:(function()%20{document.getElementById('advocate-modal').style.display%20=%20"none";%20document.getElementById('pagekey-public_profile_v3_desktop').style.overflow%20=%20"visible";%20document.getElementsByClassName('js%20guest%20advocate-modal-visible')[0].style.overflow%20=%20"visible";})();">Drag this</a>
+Trying this out [Bookmarklet][]
 
 Or create a bookmark and copy and paste this as the location:
 ```
