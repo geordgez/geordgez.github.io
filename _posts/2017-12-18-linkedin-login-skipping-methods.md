@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Automatically and/or Quickly Skipping the LinkedIn Login Wall"
+title: "Auto-Bypassing LinkedIn Login"
 date: 2017-12-18
 ---
 
@@ -23,7 +23,7 @@ that there must be a simple, automatic way to override the login wall each
 time I browsed LinkedIn.
 
 Here I note and provide a few ways of doing this:
-1. Clickable bookmark link (Bookmarklet)
+1. Clickable bookmark link (bookmarklet)
 2. JavaScript that can be copied and pasted into the console
 3. uBlock Origin custom filtering rules
 4. Browser add-on to apply user-specified stylesheets (not recommended)
@@ -40,21 +40,21 @@ and drag the link to the browser's bookmarks toolbar.
 Since I'm on AWS Free Tier, the link might not work in about a year...
 
 You can always create a bookmark on your own and manually enter the bookmark's
-location:
+location as the following:
 
 ```
 javascript:(
   function() {
     document.getElementById('advocate-modal').style.display = "none";
     document.getElementById('pagekey-public_profile_v3_desktop').style.overflow = "visible";
-    document.getElementsByClassName('js%20guest%20advocate-modal-visible')[0].style.overflow = "visible";
+    document.getElementsByClassName('js guest advocate-modal-visible')[0].style.overflow = "visible";
   }
 )();
 ```
 
 Remember to name it something useful.
 
-### Quick temporary fix: JavaScript in the Console
+### Quick, temporary fix: JavaScript in the Console
 If you don't want to install anything, you can paste the JavaScript that does
 the trick into your browser console:
 

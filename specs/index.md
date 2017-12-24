@@ -72,8 +72,7 @@ Leaflet, ggplot, Seaborn
 Splunk, Bayesialab
 
 ### Other
-I type at 104wpm. Check out my TypeRacer profile in the bottom navigation bar.
-*This is probably my most versatile skill.*
+I type at ~100wpm. Check out my TypeRacer profile in the bottom navigation bar.
 
 ---
 
@@ -94,6 +93,8 @@ private capital research initiative.
 Having had the opportunity to attend the Harvard Pre-Collegiate Economics
 Challenge (HPEC) as a high school student, I eventually had the privilege of
 supporting, directing, and growing the competition as an undergraduate.
+Additionally, I managed a 20-student board and oversaw faculty dinners and
+advising events for undergraduates.
 
 ### Harvard University Dorm Crew
 **Lowell House Wet Work Team, 2012 - 2013**
