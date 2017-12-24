@@ -40,7 +40,7 @@ and drag the link to the browser's bookmarks toolbar.
 Since I'm on AWS Free Tier, the link might not work in about a year...
 
 You can always create a bookmark on your own and manually enter the bookmark's
-location:
+location as the following:
 
 ```
 javascript:(
