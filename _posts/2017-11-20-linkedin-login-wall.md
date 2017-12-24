@@ -6,10 +6,15 @@ date: 2017-11-20
 This is a quick fix for people who don't have a LinkedIn account or otherwise
 don't want to log in and let others know when they've viewed a profile.
 
-If you've hit the hard login wall where the profile preview doesn't load, just
-clear your cookies, cache, etc.
+If you've hit the hard login wall where the profile preview doesn't load,
+there are a couple options that work if you haven't spent too much time on
+LinkedIn. You can try:
+- turning your WiFi off/on again
+- clearing your cookies/cache/other browsing history
+- restarting your computer (if you're really dedicated)
+
 [CCleaner](https://www.piriform.com/ccleaner/download) is useful for clearing
-across all browsers.
+local browsing data across all browsers.
 
 ## Steps
 1. Right click the transparent dark area around the login prompt
