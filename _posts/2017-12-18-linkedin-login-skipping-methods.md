@@ -15,11 +15,11 @@ have viewed more than one profile/day without logging in. When this happens, the
 page still loads the complete public profile but makes it difficult to be
 viewed in the browser by imposing a paywall and scroll lock. However, since
 this is just the result of superimposed elements and CSS, you can view the
-profile as if it were your first profile of the day i.e. an obscured view of
-the public profile free of any login wall shenanigans.
+profile as if it were your first profile of the day i.e. a clean view of the
+public profile free of any login wall shenanigans.
 
 After manually editing CSS elements one too many times on LinkedIn, I realized
-that there must be a simple, automatic way to override the login wall each
+that there should be a simple, automatic way to override the login wall each
 time I browsed LinkedIn.
 
 Here I note and provide a few ways of doing this:
