@@ -23,21 +23,25 @@ that there must be a simple, automatic way to override the login wall each
 time I browsed LinkedIn.
 
 Here I note and provide a few ways of doing this:
-1. A Bookmarklet!
-1. JavaScript that can be copied and pasted into the console
-2. uBlock Origin custom filtering rules
-3. A browser add-on to apply user-specified stylesheets (not recommended)
-4. Browser-specific methods of enforcing custom user stylesheets
+1. Clickable bookmark link (Bookmarklet)
+2. JavaScript that can be copied and pasted into the console
+3. uBlock Origin custom filtering rules
+4. Browser add-on to apply user-specified stylesheets (not recommended)
+5. Browser-specific methods of enforcing custom user stylesheets
 
 If you find any issues or bugs, feel free to submit an issue in
 [my repo for this project](https://github.com/geordgez/linkedin-login-wall-css).
 
 ### Simple, non-invasive fix: Bookmarklet
-[bookmarklet]: javascript:(function() {document.getElementById('advocate-modal').style.display = "none";document.getElementById('pagekey-public_profile_v3_desktop').style.overflow = "visible";document.getElementsByClassName('js%20guest%20advocate-modal-visible')[0].style.overflow = "visible";})();  "Bookmarklet"
+Go
+[here](http://gdgz-skip-linkedin-login-wall.s3-website-us-east-1.amazonaws.com/)
+and drag the link to the browser's bookmarks toolbar.
 
-Trying this out [Bookmarklet][]
+Since I'm on AWS Free Tier, the link might not work in about a year...
 
-Or create a bookmark and copy and paste this as the location:
+You can always create a bookmark on your own and manually enter the bookmark's
+location:
+
 ```
 javascript:(
   function() {
@@ -48,9 +52,11 @@ javascript:(
 )();
 ```
 
+Remember to name it something useful.
+
 ### Quick temporary fix: JavaScript in the Console
-If you don't want to install anything, here's some really simple JavaScript
-that you can paste into your browser console each time:
+If you don't want to install anything, you can paste the JavaScript that does
+the trick into your browser console:
 
 ```
 document.getElementById('advocate-modal').style.display = "none";
@@ -60,7 +66,8 @@ document.getElementsByClassName('js guest advocate-modal-visible')[0].style.over
 
 To get to the browser console, find a blank spot on a web page in your
 browser window, right-click, and select `Inspect`, `Inspect Element`, or
-your browser's equivalent in the resulting dropdown menu.
+your browser's equivalent in the resulting dropdown menu. The console is the
+terminal-like area where you can enter commands.
 
 ### Single, permanent fix: uBlock Origin
 Add the following lines in uBlock Origin Settings > My Filters:
@@ -74,8 +81,8 @@ linkedin.*##body.advocate-modal-visible:style(overflow:visible;)
 Honestly, you should have uBlock Origin on your computer regardless of whether
 you care about this fix to automatically remove the LinkedIn login wall.
 
-### Single, permanent, but insecure and suboptimal fix: Stylish
-**Caveat for privacy-minded folks:** Please be aware that Stylish
+### Single, permanent, suboptimal fix: Stylish
+**Caveat for privacy-minded folks:** Please note that Stylish
 [recently adopted an opt-out data collection policy](https://forum.userstyles.org/discussion/53233/announcement-to-the-community).
 Based on the
 [privacy policy (as of October 30th, 2017)](https://userstyles.org/login/policy),
@@ -91,16 +98,18 @@ I added
 that can be added via the Stylish add-on to remove the soft login wall that
 was noted in the previous post.
 
-### Similar and superior options to Stylish
+##### Potential alternatives to Stylish
 Some other add-ons exist for this purpose (such as
-[User CSS](https://chrome.google.com/webstore/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb?hl=en),
-[Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en), and
-[Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en)
+[User CSS](https://chrome.google.com/webstore/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb?hl=en) and
+[Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en)
 for Chrome
 )
 but I ended up creating a Stylish sheet since it seemed to be the most popular.
 
 ### Native in-browser options
 Firefox natively [supports custom CSS](https://superuser.com/questions/318912/how-to-override-the-css-of-a-site-in-firefox-with-usercontent-css).
+
 Chrome apparently
 [stopped supporting this feature in 2014](https://www.itsupportguides.com/knowledge-base/computer-accessibility/how-to-use-a-custom-style-sheet-css-with-google-chrome/).
+
+A bunch of other browsers appear to have this feature as well.
