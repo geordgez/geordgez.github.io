@@ -53,7 +53,8 @@ javascript:(
 )();
 ```
 
-Remember to give a useful name the bookmarked link.
+Remember to give a useful name to the resulting link created in the 
+bookmarks toolbar.
 
 ### Quick, temporary fix: JavaScript in the Console
 If you don't want to install anything, you can paste the JavaScript that does
