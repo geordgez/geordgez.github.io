@@ -33,9 +33,10 @@ If you find any issues or bugs, feel free to submit an issue in
 [my repo for this project](https://github.com/geordgez/linkedin-login-wall-css).
 
 ### Simple, non-invasive fix: Bookmarklet
-Go
-[here](http://gdgz-skip-linkedin-login-wall.s3-website-us-east-1.amazonaws.com/)
-and drag the link to the browser's bookmarks toolbar.
+Go to 
+[**this page**](http://gdgz-skip-linkedin-login-wall.s3-website-us-east-1.amazonaws.com/)
+and follow the instructions on the page to drag the link to the browser's 
+bookmarks toolbar.
 
 Since I'm on AWS Free Tier, the link might not work in about a year...
 
@@ -52,7 +53,7 @@ javascript:(
 )();
 ```
 
-Remember to name it something useful.
+Remember to give a useful name the bookmarked link.
 
 ### Quick, temporary fix: JavaScript in the Console
 If you don't want to install anything, you can paste the JavaScript that does
