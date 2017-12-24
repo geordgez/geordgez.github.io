@@ -38,7 +38,12 @@ Go to
 and follow the instructions on the page to drag the link to the browser's 
 bookmarks toolbar.
 
-Since I'm on AWS Free Tier, the link might not work in about a year...
+Once the link is in your bookmarks toolbar, you can just click it whenever 
+you are browsing LinkedIn, are able to peek at the full public profile, but
+have the login wall blocking your view. Clicking the link should remove the
+obstructions on the page and let you view the full public profile. 
+
+*Note:* Since I'm on AWS Free Tier, the link might not work in about a year...
 
 You can always create a bookmark on your own and manually enter the bookmark's
 location as the following:
