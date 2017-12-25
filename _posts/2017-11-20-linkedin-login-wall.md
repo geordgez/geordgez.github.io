@@ -2,6 +2,7 @@
 layout: post
 title: "LinkedIn Login Wall"
 date: 2017-11-20
+custom_styles: "posts"
 ---
 This is a quick fix for people who don't have a LinkedIn account or otherwise
 don't want to log in and let others know when they've viewed a profile.
