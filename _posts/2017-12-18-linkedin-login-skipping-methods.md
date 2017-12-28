@@ -11,17 +11,17 @@ about manually skipping the LinkedIn login wall.*
 
 ## Automatic goggles
 As noted before, every LinkedIn profile has a public version that can be viewed
-without logging in. The only time you might not be able to view it is if you
-have viewed more than one profile/day without logging in. When this happens, the
-page still loads the complete public profile but makes it difficult to be
-viewed in the browser by imposing a paywall and scroll lock. However, since
-this is just the result of superimposed elements and CSS, you can view the
-profile as if it were your first profile of the day i.e. a clean view of the
-public profile free of any login wall shenanigans.
+without logging in. The first time you view any public profile you'll have full
+visibility with no impediments. When you view two or more profiles in a row,
+however, LinkedIn visually obstructs parts of the page. Specifically, the page
+still loads the complete public profile imposes a paywall, gray overlay, and
+scroll lock. Since this is just the result of superimposed elements and CSS, 
+you can view the profile as if it were your first profile of the day i.e. a
+clean view of the public profile free of any login wall shenanigans.
 
 After manually editing CSS elements one too many times on LinkedIn, I realized
 that there should be a simple, automatic way to override the login wall each
-time I browsed LinkedIn.
+time I browsed the site.
 
 Here I note and provide a few ways of doing this:
 1. Clickable bookmark link (bookmarklet)
@@ -34,15 +34,15 @@ If you find any issues or bugs, feel free to submit an issue in
 [my repo for this project](https://github.com/geordgez/linkedin-login-wall-css).
 
 ### Simple, non-invasive fix: Bookmarklet
-Go to 
+Go to
 [**this page**](http://gdgz-skip-linkedin-login-wall.s3-website-us-east-1.amazonaws.com/)
-and follow the instructions on the page to drag the link to the browser's 
+and follow the instructions on the page to drag the link to the browser's
 bookmarks toolbar.
 
-Once the link is in your bookmarks toolbar, you can just click it whenever 
+Once the link is in your bookmarks toolbar, you can just click it whenever
 you are browsing LinkedIn, are able to peek at the full public profile, but
 have the login wall blocking your view. Clicking the link should remove the
-obstructions on the page and let you view the full public profile. 
+obstructions on the page and let you view the full public profile.
 
 *Note:* Since I'm on AWS Free Tier, the link might not work in about a year...
 
@@ -59,7 +59,7 @@ javascript:(
 )();
 ```
 
-Remember to give a useful name to the resulting link created in the 
+Remember to give a useful name to the resulting link created in the
 bookmarks toolbar.
 
 ### Quick, temporary fix: JavaScript in the Console
