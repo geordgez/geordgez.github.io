@@ -1,10 +1,10 @@
 ---
 layout: cv
 title: Resume/CV
-date: 2017-11-19
+date: 2017-12-28
 ---
 ## Current
-### Booz Allen Hamilton
+### [Booz Allen Hamilton](https://www.boozallen.com/)
 **Senior Consultant, 2017 - present**
 <br>
 **Consultant, 2016 - 2017**
@@ -13,7 +13,7 @@ date: 2017-11-19
 
 I'm part of the Advanced Analytics group within Booz Allen's
 Commercial practice. I've supported client engagements and proposal efforts
-across the commercial and government sectors in a variety of roles.
+across the commercial and government sectors in a variety of roles. 
 
 ---
 
@@ -77,24 +77,22 @@ I type at ~100wpm. Check out my TypeRacer profile in the bottom navigation bar.
 ---
 
 ## Experience
-### Private Capital Research Institute
+### [Private Capital Research Institute](http://www.privatecapitalresearchinstitute.org/)
 **Research Analyst, 2013 - 2016**
 
 I served as an undergraduate research analyst for HBS Prof. Josh Lerner's
 private capital research initiative.
 
-### Harvard Undergraduate Economics Association
+### [Harvard Undergraduate Economics Association](http://www.hcs.harvard.edu/huea/)
 **President, 2014 - 2015**
 <br>
 **VP of Outreach, 2013 - 2014**
 <br>
 **Outreach Committee, 2012 - 2013**
 
-Having had the opportunity to attend the Harvard Pre-Collegiate Economics
-Challenge (HPEC) as a high school student, I eventually had the privilege of
-supporting, directing, and growing the competition as an undergraduate.
-Additionally, I managed a 20-student board and oversaw faculty dinners and
-advising events for undergraduates.
+I managed a 20-student board, oversaw faculty dinners, organized advising
+events for undergraduates, and directed one of the largest student-run high
+school economics competitions in the world.
 
 ### Harvard University Dorm Crew
 **Lowell House Wet Work Team, 2012 - 2013**
