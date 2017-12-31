@@ -14,7 +14,7 @@ As noted before, every LinkedIn profile has a public version that can be viewed
 without logging in. The first time you view any public profile you'll have full
 visibility with no impediments. When you view two or more profiles in a row,
 however, LinkedIn visually obstructs parts of the page. Specifically, the page
-still loads the complete public profile imposes a paywall, gray overlay, and
+still loads the complete public profile but imposes a paywall, gray overlay, and
 scroll lock. Since this is just the result of superimposed elements and CSS,
 you can view the profile as if it were your first profile of the day i.e. a
 clean view of the public profile free of any login wall shenanigans.
