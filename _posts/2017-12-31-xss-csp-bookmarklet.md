@@ -17,7 +17,7 @@ Here's a headline from 2011 on the NYClean bookmarklet:
 
 There's actually a wide variety of bookmarklets that serve as lightweight browser add-ons; NYClean demonstrates their potential simplicity and utility. Unlike add-ons, bookmarklets also have the added benefit that they just live in your bookmarks folder/menu/toolbar and don't need to be installed; you can just click them when you need them.
 
-Unfortunately, bookmarklets aren't very useful now because of the [Content Security Policy (CSP)](https://www.owasp.org/index.php/Content_Security_Policy_Cheat_Sheet). It's a standard security feature implemented relatively recently that prevents cross-scripting (XSS), clickjacking, data/content injection, etc. Although not a hard requirement, modern sites are generally encouraged to use CSP headers since they prevent a wide range of web security issues.
+Unfortunately, bookmarklets aren't very practical now because of the [Content Security Policy (CSP)](https://www.owasp.org/index.php/Content_Security_Policy_Cheat_Sheet). It's a standard security feature implemented relatively recently that prevents cross-scripting (XSS), clickjacking, data/content injection, etc. Although not a hard requirement, modern sites are generally encouraged to use CSP headers since they prevent a wide range of web security issues.
 
 CSP means much safer browsing but it also kills the reliability of bookmarklets. Many sites nowadays will prevent a client-side bookmark from executing scripts.
 
@@ -46,6 +46,8 @@ in your browser's console you'll still get the alert to pop up. CSP just prevent
 ### Further tangential reading
 
 A popular bookmarklet was/is [Instapaper's **save** link](https://www.instapaper.com/save) for stashing online articles (similar to Pocket).
+
+Brian Donahue of Instapaper [has a great summary on the death of the bookmarklet](https://medium.com/making-instapaper/bookmarklets-are-dead-d470d4bbb626).
 
 [Here's an article](https://www.linkedin.com/pulse/content-security-policy-michal-koczwara) with examples of sites not implementing CSP.
 
