@@ -4,3 +4,6 @@ p {
 span.reading-time {
   color: #acacac;
 }
+a {
+  text-decoration: underline dotted;
+}
