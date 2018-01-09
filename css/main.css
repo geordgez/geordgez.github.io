@@ -40,6 +40,10 @@ a {
 a:hover {
     text-decoration: underline;
 }
+.post a {
+  text-decoration: underline dotted;
+}
+
 h1 {
     font-size: 250%;
 }
