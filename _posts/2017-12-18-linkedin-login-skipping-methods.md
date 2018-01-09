@@ -2,7 +2,6 @@
 layout: post
 title: "Auto-Bypassing LinkedIn Login"
 date: 2017-12-18
-custom_styles: "posts"
 ---
 
 *This is a follow-up to
