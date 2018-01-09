@@ -1,0 +1,6 @@
+{% assign word_count = content | number_of_words %}
+{% assign read_time = word_count | plus: 90 | divided_by:180 %}
+
+<span class="reading-time" title="Estimated reading time">
+  {{ read_time }}-minute read
+</span>
