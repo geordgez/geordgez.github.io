@@ -34,7 +34,7 @@ div.scrollmenu {
 
 a {
     text-decoration: none;
-    color: #404040;
+    color: #999;
 }
 
 a:hover {
@@ -42,6 +42,7 @@ a:hover {
 }
 .post a {
   text-decoration: underline dotted;
+  color: #2d2d86;
 }
 
 h1 {
