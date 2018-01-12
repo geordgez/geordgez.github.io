@@ -67,6 +67,10 @@ pre {
     overflow: auto;
 }
 
+code {
+    background-color: #ccfcff;
+}
+
 ul.posts {
     margin: 20px auto 40px;
     line-height: 120%;
