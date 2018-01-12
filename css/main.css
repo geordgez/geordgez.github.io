@@ -42,7 +42,10 @@ a:hover {
 }
 .post a {
   text-decoration: underline dotted;
-  color: #2d2d86;
+  color: #26aacc;
+}
+.post a:hover {
+    color: #50a054;
 }
 
 h1 {
