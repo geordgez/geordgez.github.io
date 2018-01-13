@@ -41,8 +41,7 @@ a:hover {
     text-decoration: underline;
 }
 .post a {
-  text-decoration: underline dotted;
-  color: #26aacc;
+  color: #0366d6;
 }
 .post a:hover {
     color: #50a054;
@@ -61,11 +60,12 @@ footer {
 }
 
 pre {
-    padding: 5px;
-    padding-bottom: 10px;
+    padding: 16px;
     width: auto;
     overflow: auto;
-    background-color: #ccfcff;
+    background-color: #f6f8fa;
+    font-size: 90%;
+    line-height: 1.45;
 }
 
 ul.posts {
