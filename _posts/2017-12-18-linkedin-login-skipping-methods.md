@@ -12,11 +12,12 @@ about manually skipping the LinkedIn login wall.*
 As noted before, every LinkedIn profile has a public version that can be viewed
 without logging in. The first time you view any public profile you'll have full
 visibility with no impediments. When you view two or more profiles in a row,
-however, LinkedIn visually obstructs parts of the page. Specifically, the page
-still loads the complete public profile but imposes a paywall, gray overlay, and
-scroll lock. Since this is just the result of superimposed elements and CSS,
-you can view the profile as if it were your first profile of the day i.e. a
-clean view of the public profile free of any login wall shenanigans.
+however, LinkedIn visually obstructs parts of the page. Specifically, the site
+still loads the complete public profile but imposes a login wall, gray overlay,
+and scroll lock via modal elements. Since this is just the result of
+superimposed elements and CSS, you can view the profile as if it were your
+first profile of the day i.e. a clean view of the public profile free of any
+login wall shenanigans.
 
 After manually editing CSS elements one too many times on LinkedIn, I realized
 that there should be a simple, automatic way to override the login wall each
@@ -131,7 +132,7 @@ but I ended up creating a Stylish sheet since it seemed to be the most popular.
 ### Native in-browser options
 Firefox natively [supports custom CSS](https://superuser.com/questions/318912/how-to-override-the-css-of-a-site-in-firefox-with-usercontent-css).
 
-Chrome apparently
-[stopped supporting this feature in 2014](https://www.itsupportguides.com/knowledge-base/computer-accessibility/how-to-use-a-custom-style-sheet-css-with-google-chrome/).
-
 A bunch of other browsers appear to have this feature as well.
+
+Unfortunately, Chrome
+[stopped supporting this feature in 2014](https://www.itsupportguides.com/knowledge-base/computer-accessibility/how-to-use-a-custom-style-sheet-css-with-google-chrome/).
