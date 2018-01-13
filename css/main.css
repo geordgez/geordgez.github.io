@@ -41,7 +41,7 @@ a:hover {
     text-decoration: underline;
 }
 .post a {
-  color: #0366d6;
+    color: #0366d6;
 }
 .post a:hover {
     color: #999;
