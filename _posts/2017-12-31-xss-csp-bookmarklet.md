@@ -3,7 +3,7 @@ layout: post
 title: "XSS, CSP, and a Farewell to Bookmarklets"
 date: 2017-12-31
 ---
-## XSS, CSP, and a Farewell to Bookmarklets
+## Simpler than an add-on/extension
 
 When [automating the removal of the LinkedIn login wall](https://geordgez.github.io/jots/2017/12/18/linkedin-login-skipping-methods), I tried out a few methods for quickly modifying HTML/CSS.
 
