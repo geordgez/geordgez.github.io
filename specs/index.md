@@ -4,7 +4,7 @@ title: Resume/CV
 date: 2017-12-28
 ---
 ## Current
-### [Booz Allen Hamilton](https://www.boozallen.com/)
+### Booz Allen Hamilton [>](https://www.boozallen.com/)
 **Senior Consultant, 2017 - present**
 <br>
 **Consultant, 2016 - 2017**
@@ -13,7 +13,7 @@ date: 2017-12-28
 
 I'm part of the Advanced Analytics group within Booz Allen's
 Commercial practice. I've supported client engagements and proposal efforts
-across the commercial and government sectors in a variety of roles. 
+across the commercial and government sectors in a variety of roles.
 
 ---
 
@@ -77,13 +77,13 @@ I type at ~100wpm. Check out my TypeRacer profile in the bottom navigation bar.
 ---
 
 ## Experience
-### [Private Capital Research Institute](http://www.privatecapitalresearchinstitute.org/)
+### Private Capital Research Institute [>](http://www.privatecapitalresearchinstitute.org/)
 **Research Analyst, 2013 - 2016**
 
 I served as an undergraduate research analyst for HBS Prof. Josh Lerner's
 private capital research initiative.
 
-### [Harvard Undergraduate Economics Association](http://www.hcs.harvard.edu/huea/)
+### Harvard Undergraduate Economics Association [>](http://www.hcs.harvard.edu/huea/)
 **President, 2014 - 2015**
 <br>
 **VP of Outreach, 2013 - 2014**
