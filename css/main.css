@@ -40,6 +40,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+.cv-section a:hover {
+    text-decoration: none;
+}
 .post a {
     color: #0366d6;
 }
