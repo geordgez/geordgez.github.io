@@ -46,7 +46,7 @@ in your browser's console you'll still get the alert to pop up. CSP just prevent
 
 A popular bookmarklet was/is [Instapaper's **save** link](https://www.instapaper.com/save) for stashing online articles (similar to Pocket).
 
-Brian Donahue of Instapaper [has a great summary on the death of the bookmarklet](https://medium.com/making-instapaper/bookmarklets-are-dead-d470d4bbb626).
+Brian Donohue of Instapaper [has a great summary on the death of the bookmarklet](https://medium.com/making-instapaper/bookmarklets-are-dead-d470d4bbb626).
 
 [Here's an article](https://www.linkedin.com/pulse/content-security-policy-michal-koczwara) with examples of sites not implementing CSP.
 
