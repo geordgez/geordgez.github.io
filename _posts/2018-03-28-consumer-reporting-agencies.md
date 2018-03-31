@@ -15,7 +15,7 @@ it's the*
 
 As a side note, I only speak for a US audience and on concrete sensitive
 info (address, birthday, phone number, SSN, driver's license, etc.).
-User behavior and preference tracking--e.g. Facebook and Cambridge Analytica--
+User behavior and preference tracking -- e.g. Facebook and Cambridge Analytica --
 are a different privacy topic that won't be discussed.
 
 ## Tracking back from Equifax
@@ -42,7 +42,7 @@ and
 [here](https://krebsonsecurity.com/2017/09/the-equifax-breach-what-you-should-know/#more-40696).
 So there are even more groups that have big chunks of your financial
 and personal profile. But it still doesn't seem like
-there's a full list of these agencies and bureaus anywhere to be found--
+there's a full list of these agencies and bureaus anywhere to be found --
 shouldn't this info be readily available?
 
 The group that you're looking for would be the bigger class of **consumer
