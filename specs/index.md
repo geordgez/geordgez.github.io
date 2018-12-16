@@ -4,15 +4,21 @@ title: Resume/CV
 date: 2017-12-28
 ---
 ## Current
+
+### Deutsche Bank [>](https://www.db.com/usa/)
+**Associate, 2018 - present**
+
+## Previous 
+
 ### Booz Allen Hamilton [>](https://www.boozallen.com/)
-**Senior Consultant, 2017 - present**
+**Senior Consultant, 2017 - 2018**
 <br>
 **Consultant, 2016 - 2017**
 <br>
 **Intern, 2015**
 
-I'm part of the Advanced Analytics group within Booz Allen's
-Commercial practice. I've supported client engagements and proposal efforts
+I was a consultant in the Advanced Analytics group within Booz Allen's
+Commercial practice. I supported client engagements and proposal efforts
 across the commercial and government sectors in a variety of roles.
 
 ---
