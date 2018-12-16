@@ -8,7 +8,7 @@ I am currently an Associate on the Core Debt Strats team at
 
 I was previously a consultant within the Commercial Analytics practice
 of [Booz Allen Hamilton](https://www.boozallen.com/) focusing on data 
-science, automation, and orchestration to cybersecurity. 
+science, automation, and orchestration, often in relation to cybersecurity. 
 
 I'm interested in the intersection of mathematical modeling, software
 development, business strategy, and data.
