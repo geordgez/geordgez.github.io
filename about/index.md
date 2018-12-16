@@ -3,7 +3,8 @@ layout: default
 ---
 # About Me
 
-I am currently an Associate on the Core Debt Strats team at Deutsche Bank. 
+I am currently an Associate on the Core Debt Strats team at 
+[Deutsche Bank](https://www.db.com/usa/). 
 
 I was previously a consultant within the Commercial Analytics practice
 of [Booz Allen Hamilton](https://www.boozallen.com/) focusing on data 
