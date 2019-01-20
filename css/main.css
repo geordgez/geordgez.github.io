@@ -80,6 +80,11 @@ ul.posts li {
     list-style: none;
 }
 
+li {
+    font-size: 12px;
+    letter-spacing: 0.1em;
+}
+
 hr {
   border: 0;
   height: 0;
