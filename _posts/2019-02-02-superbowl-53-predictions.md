@@ -4,8 +4,6 @@ title: "Super Bowl LIII Predictions"
 date: 2019-02-02
 ---
 
-# Super Bowl LIII Predictions
-
 Offering some terrible analysis for why the Patriots might lose.
 
 ### A wild theory on Brady
