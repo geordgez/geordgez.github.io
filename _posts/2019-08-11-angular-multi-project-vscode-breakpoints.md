@@ -11,9 +11,9 @@ As is typical with development setup questions, the answer is quite obvious in r
 ### Solution: adjust your source maps
 I'm assuming you've already installed the ["Debugger for Chrome" extension for VS Code](https://code.visualstudio.com/blogs/2016/02/23/introducing-chrome-debugger-for-vs-code) and generated a workspace application sub-project using the Angular CLI e.g. `ng generate application new-app`.
 
-The Node debugger in VS Code sometimes requires additional information in order to understand how source code gets mapped to transpiled application code, which is used when setting IDE debug points in code that you've actually written. This involves [addint/editing the `sourceMaps` field of a `configurations` entry](https://code.visualstudio.com/docs/nodejs/nodejs-debugging#_source-maps) in your project's `.vscode/launch.json` file.
+The Node debugger in VS Code sometimes requires additional information in order to understand how source code gets mapped to transpiled application code, which is used when setting IDE debug points in code that you've actually written. This involves [adding/editing the `sourceMaps` field of a `configurations` entry](https://code.visualstudio.com/docs/nodejs/nodejs-debugging#_source-maps) in your project's `.vscode/launch.json` file.
 
-Fortunately, [an answer to a GitHub issue](https://github.com/angular/angular-cli/issues/13154#issuecomment-445725373) provides a thorough explanation of the `sourceMaps` and `sourceMapPathOverrides` entries you'd want to add as an entry to the default "Launch Chrome against localhost":
+Fortunately, [an answer to a GitHub issue](https://github.com/angular/angular-cli/issues/13154#issuecomment-445725373) provides a thorough explanation of the `sourceMaps` and `sourceMapPathOverrides` entries you'd want to add as entries to the default "Launch Chrome against localhost":
 ```
 "sourceMaps": true,
 "sourceMapPathOverrides": {
