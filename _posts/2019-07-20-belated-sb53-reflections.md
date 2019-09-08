@@ -19,4 +19,4 @@ It's been way too long since my last jot and this reflection on my Super Bowl 53
 
 Brady's stat line (71.4 Rating, 21/35, 262 yds, 0 TD, 1 INT) wasn't much better than Goff's (57.9 Rating, 19/38, 0 TD, 1 INT)([Wikipedia](https://en.wikipedia.org/wiki/Super_Bowl_LIII)). You could say he played down to Goff's level. But you'd be hard pressed to say Brady had a bad game; unlike Goff, he asserted his greatness when his team needed him. 
 
-Never doubt the GOAT. I'm glad my predictions were almost entirely wrong. [Tony Romo can keep his job.](hhttps://ftw.usatoday.com/2019/01/tony-romo-nfl-prediction-accuracy-super-bowl)
+Never doubt the GOAT. I'm glad my predictions were almost entirely wrong. [Tony Romo can keep his job.](https://ftw.usatoday.com/2019/01/tony-romo-nfl-prediction-accuracy-super-bowl)
