@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "All Jiro-style Ramen in the US"
+title: "Locations of Jiro Ramen in the US (full list)"
 date: 2023-04-12
 ---
 
