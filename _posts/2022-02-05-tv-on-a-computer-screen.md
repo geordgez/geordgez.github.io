@@ -1,8 +1,12 @@
-# Watching OTA (antenna) TV on a built-in screen
+---
+layout: post
+title: "Watching Antenna (OTA) TV on a Phone / Computer Screen"
+date: 2022-02-05
+---
 
 ### TL;DR
 
-If you're already watching over-the-air (OTA) TV and want to use your phone or laptop as a TV screen as well, you can 
+If you're already watching over-the-air (OTA) TV and want to use your phone or laptop as a standalone TV screen as well, you can 
 buy a network-attached TV tuner -- e.g. from [HDHomeRun](https://www.silicondust.com/product/hdhomerun-flex-duo/) or 
 [Hauppauge](https://www.hauppauge.com/pages/products/prods.htm) -- and connect it to your ethernet router. 
 
